@@ -1,0 +1,11 @@
+{
+  "name": "com.aetherforgeai.sprite-shader",
+  "version": "1.0.0",
+  "displayName": "AetherForgeAI Sprite Shader",
+  "description": "This package contains a single shader graph for a sprite.",
+  "unity": "6000.0",
+  "unityRelease": "58f2",
+  "dependencies": {
+    "com.unity.shadergraph": "17.0.4"
+  }
+}
